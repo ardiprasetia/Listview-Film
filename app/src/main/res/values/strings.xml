@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">AndroidBasic</string>
+
+    <string-array name="title">
+        <item>Captain America: The First Avengers (2011)</item>
+        <item>Captain Marvel (2019)</item>
+        <item>Iron Man (2008)</item>
+        <item>The Incredible Hulk (2008)</item>
+        <item>Iron Man 2 (2010)</item>
+        <item>Thor (2011)</item>
+        <item>The Avengers (2012))</item>
+        <item>Iron Man 3 (2013)</item>
+        <item>Thor: The Dark World (2013)</item>
+        <item>Captain America : The Winter Soldier (2014)</item>
+        <item>Guardians of The Galaxy (2014)</item>
+    </string-array>
+
+    <string-array name="image">
+        <item>https://images-na.ssl-images-amazon.com/images/I/91zlVmXTLOL._SL1500_.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/en/8/85/Captain_Marvel_poster.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/en/7/70/Ironmanposter.JPG</item>
+        <item>https://upload.wikimedia.org/wikipedia/en/8/88/The_Incredible_Hulk_poster.jpg</item>
+        <item>https://cdn.europosters.eu/image/1300/poster/iron-man-2-i10169.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/en/f/fc/Thor_poster.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/en/f/f9/TheAvengers2012Poster.jpg</item>
+        <item>https://m.media-amazon.com/images/M/MV5BMjE5MzcyNjk1M15BMl5BanBnXkFtZTcwMjQ4MjcxOQ@@._V1_UY268_CR3,0,182,268_AL_.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/en/7/7e/Thor_-_The_Dark_World_poster.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/en/e/e8/Captain_America_The_Winter_Soldier.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/en/b/b5/Guardians_of_the_Galaxy_poster.jpg</item>
+    </string-array>
+</resources>
